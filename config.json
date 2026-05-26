@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorpender",
+        "uuid": 2381574,
+        "checksum": "lfmbpu"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
